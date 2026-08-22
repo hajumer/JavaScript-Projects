@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f3f3f3;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 40px 20px;
+}
+
+.card {
+  background-color: white;
+  width: 750px;
+  max-width: 90%;
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.card h1 {
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 38px;
+}
+
+.card img {
+  width: 330px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  margin-bottom: 25px;
+}
+
+#leaderName {
+  font-size: 30px;
+  margin: 10px 0 20px;
+}
+
+.card p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 12px 0;
+  height: auto;
+}
+
+#opinion {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#dua {
+  margin-top: 25px;
+  padding: 20px;
+  line-height: 1.7;
+  background-color: #f5f5f5;
+  border-radius: 12px;
+}
